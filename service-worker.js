@@ -60,4 +60,4 @@ self.addEventListener('activate', function(e) {
         // return request || fetch(e.request)
       })
     )
-  })
+  });
